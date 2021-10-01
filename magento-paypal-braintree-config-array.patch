@@ -1,10 +1,8 @@
 Index: vendor/paypal/module-braintree-core/Model/Adminhtml/System/Config/CountryCreditCard.php
-IDEA additional info:
-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
 <+>UTF-8
 ===================================================================
---- a/vendor/paypal/module-braintree-core/Model/Adminhtml/System/Config/CountryCreditCard.php	(date 1621260289684)
-+++ b/vendor/paypal/module-braintree-core/Model/Adminhtml/System/Config/CountryCreditCard.php	(date 1621260289684)
+--- a/vendor/paypal/module-braintree-core/Model/Adminhtml/System/Config/CountryCreditCard.php
++++ b/vendor/paypal/module-braintree-core/Model/Adminhtml/System/Config/CountryCreditCard.php
 @@ -69,15 +69,17 @@
      {
          $value = $this->getValue();
